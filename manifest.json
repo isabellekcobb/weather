@@ -12,13 +12,13 @@
       "description" : "Latitude of weather station",
       "prompt" : "Latitude",
       "input_type" : "str",
-      "default" : "37.5"
+      "default" : "43.1939"
     },
     "LONGITUDE" : {
       "description" : "Longitude of weather station",
       "prompt" : "Longitude",
       "input_type" : "str",
-      "default" : "-122.3"
+      "default" : "-71.5724"
     },
     "BASENAME" : {
       "description" : "Name for weather data",
