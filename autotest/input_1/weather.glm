@@ -24,7 +24,7 @@ object weather
 {
 	name "weather";
 	latitude 43.1939;
-	longitude 71.5724;
+	longitude -71.5724;
 	object player
 	{
 		file "weather.csv";
